@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inventor02/inventorbot-discord.git"
+    "url": "git+https://github.com/inventor02/inventorbot.git"
   },
   "author": "inventor02",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/inventor02/inventorbot-discord/issues"
+    "url": "https://github.com/inventor02/inventorbot/issues"
   },
-  "homepage": "https://github.com/inventor02/inventorbot-discord#readme",
+  "homepage": "https://github.com/inventor02/inventorbot#readme",
   "dependencies": {
     "discord.js": "^7.0.1"
   }
