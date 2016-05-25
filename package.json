@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/inventor02/inventorbot/issues"
   },
-  "homepage": "https://github.com/inventor02/inventorbot#readme",
+  "homepage": "http://inventor02.me/inventorbot",
   "dependencies": {
     "discord.js": "^7.0.1"
   }
