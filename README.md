@@ -1,4 +1,6 @@
-# inventorbot-discord
+# INVENTORBOT IS DISCONTINUED. FOR A BETTER BOT WITH MORE FEATURES, CHECK OUT [BOT.JS](http://inventor02.me/bot.js)!
+
+# inventorbot
 
 ### What is InventorBot?
 InventorBot is a functional Discord bot that works seamlessly on your server of choice!
